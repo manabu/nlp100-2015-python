@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# hint: slice
+
 def execute(x):
-    ret = x[0]+x[2]+x[4]+x[6]
+    ret = x[::2]
     return ret
