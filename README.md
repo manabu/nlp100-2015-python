@@ -7,5 +7,6 @@
 python3
 
 ```
-python3 -m unittest test-chapter1-00.py
+cd chapter01
+python3 -m unittest test-chapter01-00.py
 ```
